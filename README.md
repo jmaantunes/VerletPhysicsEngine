@@ -3,17 +3,16 @@
 Based on Pezzza's project:
 [Writing a Physics Engine from scratch](https://www.youtube.com/watch?v=lS_qeBy3aQI&t=412s).
 
-## Setup
+## Requirements
 
 * Mingw32
+* VScode
 
-```bash
-pip install foobar
-```
+(SFML is needed too, here it is configured locally)
 
 ## How to run it
 
-```python
+```
 make
 ./main
 ```
