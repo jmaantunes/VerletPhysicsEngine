@@ -23,6 +23,4 @@ make
 * **C** - Clear objects
 
 ## Recreation of logo.png
-[![Screenshot-3.png](https://i.postimg.cc/PxwsNMHL/Screenshot-3.png)](https://postimg.cc/tZpmMWYy)
 [![Screenshot-4.png](https://i.postimg.cc/mDQxYfZY/Screenshot-4.png)](https://postimg.cc/8JPnGY6c)
-[![Screenshot-2.png](https://i.postimg.cc/FKTxttJm/Screenshot-2.png)](https://postimg.cc/TyWbm49H)
