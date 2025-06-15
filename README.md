@@ -13,7 +13,7 @@ Based on Pezzza's project:
 ## How to run it
 
 ```
-make
+mingw32-make
 ./main
 ```
 ## Commands
