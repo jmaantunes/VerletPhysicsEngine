@@ -5,7 +5,7 @@ Based on Pezzza's project:
 
 ## Requirements
 
-* mingw32
+* mingw32 (Download it from: [Sourceforge](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-win32/dwarf/i686-8.1.0-release-win32-dwarf-rt_v6-rev0.7z/download)
 * vscode
 
 (SFML is needed too, here it is configured locally)
